@@ -7,6 +7,6 @@ I'm **Alan**, a penultimate-year student at Victoria University of Wellington.
 
 I'm currently working on [NodeRace](https://github.com/Team-GitGud/node-race) with a group of friends. Please check it out!
 
-- ⚙️ I use daily: `.ts`, `.java`, `.html`, `.css`
-- 💬 `ping` me about **musicals**, **project ideas**, **pokemon**, **design**
-- 🌍 Find me on <a href="https://www.linkedin.com/in/alan-mcilwaine/">LinkedIn</a>, <a href="mailto:alan.j.mcilwaine@gmail.com">Email</a> or <a href="https://discord.com/users/257705997815119872">Discord</a>
+- I use daily: `.ts`, `.java`, `.html`, `.css`
+- `ping` me about **musicals**, **project ideas**, **pokemon**, **design**
+- Find me on <a href="https://www.linkedin.com/in/alan-mcilwaine/">LinkedIn</a>, <a href="mailto:alan.j.mcilwaine@gmail.com">Email</a> or <a href="https://discord.com/users/257705997815119872">Discord</a>
