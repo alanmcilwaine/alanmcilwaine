@@ -3,7 +3,7 @@
 ## Kia ora!
 <br>
 
-I'm **Alan**, a penultimate-year student at Victoria University of Wellington.
+I'm **Alan**
 
 I'm currently working on [NodeRace](https://github.com/Team-GitGud/node-race) with a group of friends. Please check it out!
 
